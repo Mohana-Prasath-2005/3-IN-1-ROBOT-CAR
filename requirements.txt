@@ -1,0 +1,5 @@
+# Arduino Libraries
+SoftwareSerial==1.0.0
+
+# Development Environment
+Arduino-IDE==2.3.2
